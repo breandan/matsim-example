@@ -16,6 +16,8 @@ hs_err_pid*
 /target/
 /output/
 /bin/
+/build/
+/test/output
 
 /.idea/
 *.iml
