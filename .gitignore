@@ -19,5 +19,4 @@ hs_err_pid*
 /test/output
 
 .gradle
-.idea
 *.iml
