@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="MATSimGUI" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="MATSimGUI" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="org.matsim.gui.MATSimGUI" />
-    <module name="matsim-example-project" />
+    <module name="matsim-example-project_main" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="org.matsim.gui.*" />
